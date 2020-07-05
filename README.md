@@ -10,4 +10,9 @@ Archive all you APSIS Pro newsletters, in a folder.
 Depening on payload polling the data could take up to several minutes. 
 Polling data by an interval of 5000 ms. 
 
-Read more APSIS Pro API documentation:[APSIS Pro API Doc](http://se.apidoc.anpdm.com/ )
+Read more APSIS Pro API documentation: [APSIS Pro API Doc](http://se.apidoc.anpdm.com/)
+
+## Info
+Project is built with Node.js
+* [request](https://www.npmjs.com/package/request)
+*  fs

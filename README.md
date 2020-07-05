@@ -3,7 +3,7 @@
 Archive all you APSIS Pro newsletters, in a folder. 
 
 ## How to use 
-* Set the correct direictory for achriving the newsletters. 
+* Set the correct directory for achriving the newsletters. 
 * 64 base encode the APSIS Pro API Key. Link to 64 Base encoder: [64BaseEncoder](https://antonidag.github.io/SISPA64BaseEncoder/SISPA64BaseEncoder/index.html)
 * Run project: node index.js
 

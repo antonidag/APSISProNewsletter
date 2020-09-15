@@ -91,7 +91,7 @@ async function main(){
   while(run){
     const json = await GetDataUrl(pollrul);
     if(json.StateName == 'Completed'){
-      console.log.log("Data ready...")
+      console.log("Data ready...")
       run = false;
       dataurl = json.DataUrl;
     }
